@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 ----
 
   <p align="center">
-  <a href="https://github.com/aju001/Ajuser_v2 ">
+  <a href="https://github.com/zPPVT/Ajuser_v2 ">
     <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
@@ -53,9 +53,9 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 
 <a href="https://youtu.be/MPoRRTkjuW0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aju001&show_icons=true&theme=dark&locale=en" alt="aju" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zPPVT&show_icons=true&theme=dark&locale=en" alt="aju" /></p>
     
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aju001&theme=dark" alt="aju" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zPPVT&theme=dark" alt="aju" /></p>
 </p>
     
 ```
@@ -83,7 +83,7 @@ the user is responsible..
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuser-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/Ajuser)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zPPVT/Ajuser)
      </div>
      [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
  
